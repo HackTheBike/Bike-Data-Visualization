@@ -1,0 +1,41 @@
+/*div {
+  border: solid;
+}*/
+
+#profile {
+  border-bottom: #1px solid #fff;
+  height: 300px;
+}
+
+#stats {
+  
+}
+
+#container {
+  background: #eaf1f5;
+  height: 160vh;
+}
+
+.slide {
+  margin: 30px;
+  background: white;
+  border-radius: 6px;
+  height: 250px;
+  width: 1173px;
+}
+
+}
+
+#sideCon {
+	background: #393938; 
+	height: 100vh; 
+	padding:0; 
+	margin:0; 
+	min-width: 300px
+}
+#spacer {
+	float: left;
+	background-image: url("images/spacer.png");
+}
+
+
